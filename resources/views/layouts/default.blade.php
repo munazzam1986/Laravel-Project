@@ -6,13 +6,14 @@
 <body>
 
 <header>
-@include('includes.head')
-</header>header>
+@include('includes.header')
+</header>
+
 
 <main role=""main">
 @yield('content')
         <footer class="row">
-
+                @include('includes.footer')
         </footer>
 </main>
 

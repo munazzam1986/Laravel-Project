@@ -1,6 +1,5 @@
 <header>
-    <nav class="navbar navbar-expand-sm navbar-dark bg-primary fixed-top">
-        <div class="container">
+    <nav class="navbar navbar-expand-mc navbar-dark fixed-top bg-dark">
             <a class="navbar-brand" href=" /">Laravel Assignment</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                     aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">

@@ -1,5 +1,5 @@
 @extends('layouts.default')
 @section('content')
 
-        <h1>Hello Welcome to my new Laravel About Page</h1>
+        <h1>Welcome to About Page</h1>
 @stop

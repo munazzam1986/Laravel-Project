@@ -1,5 +1,5 @@
-@extends('layouts.default')
-@section('content')
+@extends('layouts.app')
 
-        <h1>Welcome to About Page</h1>
-@stop
+@section('content')
+    <h1>About</h1>
+@endsection
